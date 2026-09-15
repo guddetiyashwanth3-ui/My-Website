@@ -1,4 +1,4 @@
-MUSIC SHELF
+------MUSIC SHELF-----
 It's a simple collection of my favourite songs that i build using html, CSS and javascript.
 
 FEATURES
