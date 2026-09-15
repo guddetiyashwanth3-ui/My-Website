@@ -1,5 +1,5 @@
 ------MUSIC SHELF-----
-It's a simple collection of my favourite songs that i build using html, CSS and javascript.
+\nIt's a simple collection of my favourite songs that i build using html, CSS and javascript.
 
 FEATURES
 1. A clean layout card based layout.
@@ -9,10 +9,10 @@ FEATURES
 5. Smooth ambient glow effect when hovering on a music card.
 
 Instructions to run the website:
-Just open the link https://guddetiyashwanth3-ui.github.io/My-Website/
+\nJust open the link https://guddetiyashwanth3-ui.github.io/My-Website/
 
 Songs:
-All the song's posters are located in Assets folder.
+\nAll the song's posters are located in Assets folder.
 
 Future Scope:
 1. Adding 100's of songs.
@@ -22,5 +22,5 @@ Future Scope:
 5. Showing lyrics while playing a song.
 
 Author
--G. Yashwanth Kumar
-Built with HTML, CSS, JAVASCRIPT.
+\n-G. Yashwanth Kumar
+\nBuilt with HTML, CSS, JAVASCRIPT.
